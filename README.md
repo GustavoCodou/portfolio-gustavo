@@ -8,7 +8,6 @@ Este é o repositório do meu portfólio pessoal, criado para apresentar meus pr
 - CSS3
 - JavaScript
 - PHP
-- [outras que você usar, ex: React, Laravel...]
 
 ## 📁 Sobre o projeto
 
